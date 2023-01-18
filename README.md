@@ -1,8 +1,5 @@
 <h1 align="center"> Buscador de CEP </h1>
 
-
-
-
 ##  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -10,7 +7,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - React JS
-- Git e Github
 - API <a href="https://viacep.com.br/" target=_blank>(ViaCEP)</a>
 
 ## Projeto
@@ -23,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Layout
 
-<img align="center" alt="banner" src="./public/Screenshot.png" whidth="300"></a>
+<img align="center" alt="banner" src="./public/Screenshot.png" whidth="250"></a>
